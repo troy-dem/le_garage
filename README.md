@@ -3,5 +3,5 @@ projet électronique numérique bac 2
 
 this repo collects all files usefull for the prjoject
 
-here's a link to the circuit maker project used for the schematic:
-(https://circuitmaker.com/Projects/Details/LouisDemarcin-2/le-garage-arduino "Electronic scheme")
+Link to the circuit maker project used for the schematic:
+[I'm an inline-style link with title](https://circuitmaker.com/Projects/Details/LouisDemarcin-2/le-garage-arduino "Electronic scheme")
